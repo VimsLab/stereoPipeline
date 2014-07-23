@@ -1,4 +1,3 @@
-
 %this is a helper function used to mask out just the region with the
 %disparity
 %by default the values outside of the mask will be -realmax('single')
